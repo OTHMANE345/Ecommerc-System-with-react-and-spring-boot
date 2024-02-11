@@ -1,0 +1,12 @@
+
+o
+java:S1192("TDefine a constant instead of duplicating this literal "Unouthorized access" 3 times.(à²ëµüÿÿÿÿ
+w
+java:S1192/"aDefine a constant instead of duplicating this literal "Something went wrong in services" 3 times.(Ž¥Žæ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šœ¶áûÿÿÿÿ
+R
+java:S1854o"<Remove this useless assignment to local variable "category".(•å°Û
+C
+java:S1481o"-Remove this unused "category" local variable.(•å°Û
+3
+java:S1116"Remove this empty statement.(¡Íº³
